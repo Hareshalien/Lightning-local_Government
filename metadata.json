@@ -1,0 +1,7 @@
+{
+  "name": "Lightning - Local Gov Response",
+  "description": "A smart dashboard for local government to monitor citizen reports and utilize Gemini AI for prioritizing solutions and resource allocation.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
