@@ -17,15 +17,5 @@ View app in AI Studio: https://ai.studio/apps/drive/1BosYTEN7SrCgpoytvLuubTnTalK
    `npm install`
 2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key and add Google maps API key in `index.html` file in `src` folder in `script` tag. Set the api key for gemini and google maps in constant.ts file.  
 
-Set firebase apis for 
- apiKey: "",
-  authDomain: "",
-  databaseURL: "",
-  projectId: "",
-  storageBucket: "",
-  messagingSenderId: "",
-  appId: 
-in constant.ts
-
 3. Run the app:
    `npm run dev`
